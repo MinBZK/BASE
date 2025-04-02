@@ -1,1 +1,1 @@
-# BANO
+# Bureau Architectuur Nederlandse Overheid
