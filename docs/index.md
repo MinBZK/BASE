@@ -1,1 +1,8 @@
-# Bureau Architectuur Nederlandse Overheid
+---
+hide:
+  - navigation
+---
+
+# BANO
+
+Bureau Architectuur Nederlandse Overheid (BANO) is ..
