@@ -2,3 +2,44 @@ site_name: Bureau Architectuur Nederlandse Overheid
 site_url: https://minbzk.github.io/BANO/
 theme:
   name: material
+  language: nl
+  palette:
+    primary: yellow
+    scheme: slate
+  features:
+    - content.action.edit
+    - content.code.copy
+    - navigation.indexes
+    - navigation.instant
+    - navigation.path
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.suggest
+  icon:
+    logo: fontawesome/solid/house
+    annotation: fontawesome/solid/circle-info
+
+
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.superfences
+  - footnotes
+  - pymdownx.details
+  - admonition
+  - attr_list
+  - abbr
+  - md_in_html
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
