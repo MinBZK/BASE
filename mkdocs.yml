@@ -1,0 +1,4 @@
+site_name: Bureau Architectuur Nederlandse Overheid
+site_url: https://minbzk.github.io/BANO/
+theme:
+  name: material
