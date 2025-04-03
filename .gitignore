@@ -12,3 +12,4 @@ site
 
 .Rproj.user
 /tmp-site/
+.cache

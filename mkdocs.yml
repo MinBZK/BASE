@@ -1,5 +1,13 @@
 site_name: Bureau Architectuur Nederlandse Overheid
 site_url: https://minbzk.github.io/BANO/
+
+
+copyright: European Union Public License v. 1.2
+
+repo_name: MinBZK/BANO
+repo_url: https://github.com/MinBZK/BANO
+edit_uri: edit/main/docs/
+
 theme:
   name: material
   language: nl
@@ -43,3 +51,23 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/MinBZK/BANO
+
+extra_templates:
+  - .well-known/security.txt
+
+plugins:
+  - awesome-pages
+#  - git-committers:
+#      repository: minbzk/BANO
+#      branch: main
+  - git-revision-date-localized:
+      enable_creation_date: true
+  - glightbox
+  - privacy
+  - search
