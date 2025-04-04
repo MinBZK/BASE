@@ -4,7 +4,6 @@
 
 Dagelijkse stand-ups houden ons als team aligned, zorgen voor snelle afstemming en helpen obstakels direct aan te pakken. Zo blijven we gefocust, transparant en kunnen we efficiënt samenwerken aan onze doelen.
 
-
 ## Hoe?
 
 - **Frequentie**: dagelijks
