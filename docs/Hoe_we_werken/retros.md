@@ -21,4 +21,4 @@ Door dit als team te doen, versterken we onze samenwerking en blijven we continu
 - Mag voorbereidingsopdrachten geven
 - Zorgt voor benodigde materialen
 - Wijst na afloop de volgende facilitator aan
-- Documenteerd actiepunten en wijst toe
+- Documenteert actiepunten en wijst toe
