@@ -3,6 +3,6 @@ hide:
   - navigation
 ---
 
-# BANO
+# BASE
 
-Bureau Architectuur Nederlandse Overheid (BANO) is ..
+Bureau Architectuur & Software Engineering
