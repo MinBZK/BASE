@@ -1,3 +1,3 @@
 # Contact
 
-Neem contact met ons op, via email ([bano@minbzk.nl](mailto:bano@minbzk.nl)) of Mattermost.
+Neem contact met ons op, via email ([base@minbzk.nl](mailto:base@minbzk.nl)) of Mattermost.
