@@ -1,11 +1,11 @@
-site_name: Bureau Architectuur Nederlandse Overheid
+site_name: Bureau Architectuur & Software Engineering
 site_url: https://minbzk.github.io/BANO/
 
 
 copyright: European Union Public License v. 1.2
 
-repo_name: MinBZK/BANO
-repo_url: https://github.com/MinBZK/BANO
+repo_name: MinBZK/BASE
+repo_url: https://github.com/MinBZK/BASE
 edit_uri: edit/main/docs/
 
 theme:
@@ -56,7 +56,7 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/MinBZK/BANO
+      link: https://github.com/MinBZK/BASE
 
 extra_templates:
   - .well-known/security.txt
