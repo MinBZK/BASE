@@ -33,7 +33,7 @@
     Architect
 
     ----
-    
+
 -   ## Victor den Toom
 
     Architect
