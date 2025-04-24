@@ -28,6 +28,12 @@
 
     ----
 
+-   ## Maro Pas
+
+    Architect
+
+    ----
+    
 -   ## Victor den Toom
 
     Architect
