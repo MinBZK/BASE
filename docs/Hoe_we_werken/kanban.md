@@ -27,16 +27,20 @@ We gebruiken [dit kanbanbord](https://digilab.overheid.nl/chat/boards/team/f6ycw
   - in progress: dit doen we nu
   - waiting for: we kunnen niet verder omdat we op iemand buiten het team wachte
   - review: werk is opgeleverd en wacht op een review van teamleden
+  - discuss: we need to discuss this in next standup
   - done: done
 - Kaartjes staan op volgorde van prioriteit, van boven naar beneden
 
 **Proces**
 
-- Ieder teamlid zet nieuw werk op de backlog zodra dit in beeld komt
+- Ieder teamlid zet nieuw werk op de backlog zodra dit bekend wordt
 - Ieder teamlid voegt informatie en updates toe aan kaartjes gedurende de werkweek
-- Tijdens iedere [standup](./standups.md) bespreken we kort de voortgang van kaartjes
+- Tijdens iedere [standup](./standups.md) bespreken we kort de voortgang aan de hand van het bord
   - van rechts naar links: doel is om eerst kaartjes af te ronden waar al aan gewerkt wordt
   - van boven naar beneden: doel is om kaartjes in volgorde van prioriteit op te pakken
+- We bespreken alleen de kaartjes waar iemand iets over wil zeggen
+  - status update
+  - hulp nodig
 - We verplaatsen alleen gezamelijk kaartjes naar een andere kolom
 - We veranderen alleen gezamelijk de *assignee* indien nodig
 - We zorgen dat in de kolom *in progress* maximaal 10 kaartjes staan (1.5x aantal teamleden)
@@ -44,7 +48,7 @@ We gebruiken [dit kanbanbord](https://digilab.overheid.nl/chat/boards/team/f6ycw
 **Te vermijden valkuilen**
 
 - Een te grote hoeveelheid werk op een enkel kaartje betekent dat het kaartje erg lang *in progress* blijft hangen. Het is dan beter om het kaartje op te splitsen, of er met meer teamleden aan te gaan werken.
-- Een te kleine hoeveelheid werk op een kaartje belemmert het overzicht. Het bord is niet bedoeld als persoonlijke takenlijst. Als werkzaamheden bestaan uit meerdere taken die iedereen scherp moet hebben, voeg deze dan toe als een check-list binnen het kaartje.
+- Een te kleine hoeveelheid werk op een kaartje belemmert het overzicht. Het bord is niet bedoeld als persoonlijke takenlijst. Als werkzaamheden bestaan uit meerdere taken die iedereen scherp moet hebben, voeg deze dan toe als een checklist binnen het kaartje.
 - Het moet helder zijn wat wordt bedoeld met werk dat op een kaartje staat, anders kan niet worden geprioriteerd en ontstaan verschillende verwachtingen over wat gaat worden geleverd.Tijdens [refinements](./refinements.md) zorgen we waar nodig voor heldere beschrijvingen van kaartjes op de backlog zodat deze opgepakt kunnen worden.
 
 We verbeteren deze werkwijze met [retro's](./retros.md).
