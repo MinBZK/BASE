@@ -30,7 +30,7 @@
 
 -   ## Maro Pas
 
-    Architect
+    Coördinator team Architectuur bij CIO Rijk 
 
     ----
 
