@@ -2,11 +2,6 @@
 
 We vinden het jammer om je te zien gaan! Maar als je dat dan doet, is dit wat je niet moet vergeten ;)
 
-## Als je het Digi Gilde verlaat
-
-- Zorg ervoor dat je je laptop reset **voordat** je je telefoon inlevert
-- Lever je laptop en telefoon in.
-
 ## GitHub
 
 - Zorg ervoor dat je eventueel eigenaarschap overdraagt aan het team.
