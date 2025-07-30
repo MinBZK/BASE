@@ -2,7 +2,7 @@
 
 We vinden het jammer om je te zien gaan! Maar als je dat dan doet, is dit wat je niet moet vergeten ;)
 
-## Als je het Digi Gilde verlaat
+## Als je Bureau Architectuur verlaat
 
 - Zorg ervoor dat je je laptop reset **voordat** je je telefoon inlevert
 - Lever je laptop en telefoon in.
