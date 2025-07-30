@@ -39,11 +39,9 @@ probleem om een anoniem account aan te maken. Als je een account hebt, volg daar
 - Selecteer eigenschappen
 - Geef iedereen binnen de organisatie leesrechten
 
-
 ## Samenwerkruimte
 
 Vraag toegang aan tot de [Samenwerkruimte](https://www.samenwerkruimten.nl/teamsites/bureau%20architectuur/Bureau%20Architectuur/) door op de link te klikken.
-
 
 ## Self-service portaal
 
