@@ -2,7 +2,6 @@
 
 We vinden het jammer om je te zien gaan! Maar als je dat dan doet, is dit wat je niet moet vergeten ;)
 
-
 ## GitHub
 
 - Zorg ervoor dat je eventueel eigenaarschap overdraagt aan het team.
