@@ -1,4 +1,11 @@
 # Onboarding
 
-- Start met het aanmaken van de [accounts](docs/Hoe_we_werken/onboarding/accounts.md)
-- Lees je in over [hoe we werken](docs/Hoe_we_werken) met [stand-ups](docs/Hoe_we_werken/standups.md), [retros](docs/Hoe_we_werken/retros.md) en het gebruik van het [kanban bord](docs/Hoe_we_werken/kanban.md)
+- Start met het aanmaken van de [accounts](accounts.md)
+- Kijk in [Hybride werken](werkplek.md) overige instellingen zoals agenda delen enz.
+
+Ten slotte: Lees je in de sectie [Hoe we werken](..) over onze:
+- [stand-ups](../standups.md),
+- [retros](../retros.md)
+- en het gebruik van het [kanban bord](../kanban.md)
+
+En welkom aan boord.
